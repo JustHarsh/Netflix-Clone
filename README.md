@@ -22,6 +22,7 @@
 - Storing what movie a user clicked on
 - Storing users that do not yet have a subscription
 - Email verification
+
 ...and more
 
 # References
