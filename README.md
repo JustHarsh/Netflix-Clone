@@ -18,7 +18,7 @@
 
 # Features that can be implemented in future updates
 - Dedicated signup screen and sign in screen
-- Playing a fake video when a user hovers over a movie
+- Playing a video (can be a stock clip) when a user hovers over a movie
 - Storing what movie a user clicked on
 - Storing users that do not yet have a subscription
 - Email verification
